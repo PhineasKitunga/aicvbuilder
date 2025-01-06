@@ -1,4 +1,4 @@
-package com.example.aicvbuilder
+package tech.ttweb.buildairesume
 
 import io.flutter.embedding.android.FlutterActivity
 

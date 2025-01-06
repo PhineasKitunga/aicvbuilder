@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225798788368",
+    "project_id": "buildairesume",
+    "storage_bucket": "buildairesume.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225798788368:android:4d190fdcc647d5775b0195",
+        "android_client_info": {
+          "package_name": "tech.ttweb.buildairesume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxceIq6KseoDkOuyRF6roGR57LIhblAAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
